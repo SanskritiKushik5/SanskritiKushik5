@@ -1,7 +1,6 @@
 ### Hi there 👋
-<img src="https://visitor-badge.laobi.icu/badge?page_id=SanskritiKushik5.SanskritiKushik5">
-<img src="https://img.shields.io/github/followers/SanskritiKushik5?label=Follow&style=social)](https://github.com/SanskritiKushik5">
-<hr />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SanskritiKushik5.SanskritiKushik5"><img src="https://img.shields.io/github/followers/SanskritiKushik5?label=Follow&style=social)](https://github.com/SanskritiKushik5">
+
 - 🔭 I’m currently working on MERN Stack and Competitive Programming
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Django Projects
@@ -11,7 +10,7 @@
 - ⚡ Fun fact: Tollywood and Kollywood Lover :sunglasses:
 
 ### :trophy: My Github Stats
-<hr />
+
 <img src="https://github-readme-stats.vercel.app/api?username=SanskritiKushik5&&show_icons=true&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskritiKushik5&theme=tokyonight&hide=dart">
 
