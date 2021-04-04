@@ -11,5 +11,5 @@
 
 ### :trophy: My Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=SanskritiKushik5&&show_icons=true&theme=tokyonight">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskritiKushik5&theme=tokyonight&hide=dart">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SanskritiKushik5&&show_icons=true&theme=tokyonight"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskritiKushik5&theme=tokyonight&hide=dart">
 
