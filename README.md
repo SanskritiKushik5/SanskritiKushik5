@@ -13,4 +13,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SanskritiKushik5&&show_icons=true&theme=tokyonight">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskritiKushik5&theme=tokyonight&hide=dart">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SanskritiKushik5&show_icons=true&theme=tokyonight">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SanskritiKushik5&show_icons=true&theme=tokyonight&fire=DD2727">
