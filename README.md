@@ -9,7 +9,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Tollywood and Kollywood Lover :sunglasses:
 
-## :star: Portfolio ➡ [Click here!](https://sanskritikushik5.netlify.app/)
+### :stars: Portfolio ➡ [Click here!](https://sanskritikushik5.netlify.app/)
 
 ### :trophy: My Github Stats
 
