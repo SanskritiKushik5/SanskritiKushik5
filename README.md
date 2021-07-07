@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Django Projects
 - 💬 Ask me about Web Development
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sanskriti-kushik-2302/) / [Instagram](https://www.instagram.com/skkkk__5/) / sanskritikushik23@gmail.com / Discord - Sanskriti#5975
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sanskriti-kushik-2302/) / [Instagram](https://www.instagram.com/skkkk__5/) / [Gmail](mailto:sanskritikushik23@gmail.com) / Discord - Sanskriti#5975
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Tollywood and Kollywood Lover :sunglasses:
 
