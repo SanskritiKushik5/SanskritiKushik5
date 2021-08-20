@@ -12,7 +12,14 @@
 ### :stars: Portfolio ➡ [Click here!](https://sanskritikushik5.netlify.app/)
 
 ### :trophy: My Github Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SanskritiKushik5&&show_icons=true&theme=tokyonight">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskritiKushik5&theme=tokyonight&hide=dart">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SanskritiKushik5&show_icons=true&theme=tokyonight&fire=DD2727">
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SanskritiKushik5&&show_icons=true&theme=tokyonight">
+</div>
+</br>
+<div align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskritiKushik5&layout=compact&theme=tokyonight&hide=dart">
+</div>
+</br>
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SanskritiKushik5&show_icons=true&theme=tokyonight&fire=DD2727">
+</div>
