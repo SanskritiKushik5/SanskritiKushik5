@@ -25,7 +25,7 @@
 </div>
 </br>
 <div align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskritiKushik5&layout=compact&theme=tokyonight&hide=dart">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=SanskritiKushik5&theme=react-dark">
 </div>
 </br>
 <div align="center">
